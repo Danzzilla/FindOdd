@@ -10,3 +10,6 @@ This program takes an array of integers and creates a new array containing all t
   * copyOf()
   * toString()
 * Adding extra index spots to an array
+* Practicing what I already know, including
+ * Commenting code
+ * Finding sources of error in code and fixing them
